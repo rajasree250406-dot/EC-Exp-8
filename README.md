@@ -7,8 +7,20 @@
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
 
+## CIRCUIT DIAGRAM
+
+<img width="1063" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee647096-b4f8-4f01-8740-dd46ac915ef8" />
+
 # Tabulation with readings
+
+<img width="1218" height="1600" alt="image" src="https://github.com/user-attachments/assets/415975a3-022f-4ecc-bd20-f5d412757070" />
+<img width="990" height="1600" alt="image" src="https://github.com/user-attachments/assets/73e00c2f-af2f-4b8e-8d6e-aeccfbbfd302" />
+
 
 ## Semilog plotted Graph
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+##  RESULT
+
+<img width="1279" height="1600" alt="image" src="https://github.com/user-attachments/assets/af080cdb-3378-4031-869c-4d02c06f9009" />
